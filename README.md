@@ -93,3 +93,16 @@ Beginner HTML & CSS Project
 ## 📜 License
 
 This project is free to use for educational purposes.
+
+---
+
+## Output 1
+
+<img width="1908" height="910" alt="Screenshot 2026-04-16 153448" src="https://github.com/user-attachments/assets/6fb0072c-8839-4f12-882b-df2624c24f64" />
+
+---
+
+## Output 2
+
+<img width="1911" height="919" alt="Screenshot 2026-04-16 153426" src="https://github.com/user-attachments/assets/ad770004-efbf-42d7-8f6e-66cd307edd48" />
+
